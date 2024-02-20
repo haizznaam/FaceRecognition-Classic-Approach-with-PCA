@@ -8,22 +8,20 @@ This project aims to conduct a comparative study on Face Recognition using PCA (
 
 ## PCA in Face Recognition
 
-Face recognition faces challenges in real-time processing due to the high dimensionality of raw face images. To mitigate this, dimensionality reduction or feature extraction techniques such as PCA are employed. PCA transforms the face space into a lower-dimensional feature space while retaining essential information.
-
-## PCA (Principal Component Analysis)
-
 PCA is a dimensionality reduction method commonly used to reduce the dimensionality of large datasets. It transforms a large set of variables into a smaller one that preserves most of the original information.
 
 In face recognition, PCA involves converting each image into a vector and forming a matrix for analysis.
 
+Face recognition faces challenges in real-time processing due to the high dimensionality of raw face images. To mitigate this, dimensionality reduction or feature extraction techniques such as PCA are employed. PCA transforms the face space into a lower-dimensional feature space while retaining essential information.
+
 ## Steps in PCA-based Face Recognition
 
-1. Format the Image Matrix
-2. Compute the Mean Vector and Mean-Subtracted Image Matrix
-3. Calculate Eigenvectors and Eigenvalues from the Covariance Matrix
-4. Select Eigenfaces
-5. Compute the Weight Matrix
-6. Recognize the Face
+     1. Format the Image Matrix
+     2. Compute the Mean Vector and Mean-Subtracted Image Matrix
+     3. Calculate Eigenvectors and Eigenvalues from the Covariance Matrix
+     4. Select Eigenfaces
+     5. Compute the Weight Matrix
+     6. Recognize the Face
 
 In KPCA, a Kernel matrix is formed, followed by the selection of the kernel function. The subsequent steps are similar to PCA.
 
@@ -31,8 +29,9 @@ In KPCA, a Kernel matrix is formed, followed by the selection of the kernel func
 
 ### Eigenfaces
 
+**First 16 eigenfaces when 40 principal components were chosen.**
+
 ![Eigen Faces](output_img/EigenFace.png)
-*First 16 eigenfaces when 40 principal components were chosen.*
 
 ### Recognized and Unrecognized Faces
 
