@@ -31,7 +31,7 @@ In KPCA, a Kernel matrix is formed, followed by the selection of the kernel func
 
 **First 16 eigenfaces when 40 principal components were chosen.**
 
-![Eigen Faces](output_img/EigenFace.png)
+![Eigen Faces](output_img/eigenfaces.png)
 
 ### Recognized and Unrecognized Faces
 
