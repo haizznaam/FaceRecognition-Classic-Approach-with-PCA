@@ -42,7 +42,7 @@ In KPCA, a Kernel matrix is formed, followed by the selection of the kernel func
       <b>Recognized Face</b>
     </td>
     <td>
-      <img src="output_img/Wrong.png" alt="Unrecognized Face" height="250"/><br>
+      <img src="output_img/mostWrong.png" alt="Unrecognized Face" height="250"/><br>
       <b>Unrecognized Face</b>
     </td>
   </tr>
