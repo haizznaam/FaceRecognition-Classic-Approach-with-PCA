@@ -1,4 +1,6 @@
-# Face Recognition in the Real World
+# Face Recognition Based Principal Component Analysis
+
+## Face Recognition in the Real World
 
 Facial recognition is a method of identifying or verifying an individual's identity using their face. Facial recognition systems can be applied in various scenarios such as photos, videos, or real-time surveillance.
 
