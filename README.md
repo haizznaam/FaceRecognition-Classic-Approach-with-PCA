@@ -4,6 +4,8 @@
 
 Facial recognition is a method of identifying or verifying an individual's identity using their face. Facial recognition systems can be applied in various scenarios such as photos, videos, or real-time surveillance.
 
+![FaceID](output_img/faceid.png)
+
 ## PCA in Face Recognition
 
 PCA is a dimensionality reduction method commonly used to reduce the dimensionality of large datasets. It transforms a large set of variables into a smaller one that preserves most of the original information.
